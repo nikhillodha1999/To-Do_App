@@ -12,6 +12,7 @@ Key Features:
 6. Search Tasks: Users can search for specific tasks using a search bar.
 7. Local Storage: The application saves tasks in the local storage so that tasks persist even after refreshing the browser.
 
+
 Set up and run the application:
 
 Step 1: Clone this repository
