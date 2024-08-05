@@ -17,6 +17,9 @@ Set up and run the application:
 
 Step 1: Clone this repository.
 
+       git clone <repository-url>
+
+
 Step 2. run command:
 
         npm install
