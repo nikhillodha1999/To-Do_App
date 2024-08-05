@@ -18,6 +18,7 @@ Set up and run the application:
 Step 1: Clone this repository.
 
 Step 2. run command: npm install
+
 which installs the node modules.
 
 step3. To run the app, run command inthe terminal: npm run dev
