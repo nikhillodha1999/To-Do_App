@@ -13,6 +13,7 @@ Key Features:
 7. Local Storage: The application saves tasks in the local storage so that tasks persist even after refreshing the browser.
 
 Set up and run the application:
+
 Step 1: Clone this repository
 Step 2. run command: npm install
 which installs the node modules
